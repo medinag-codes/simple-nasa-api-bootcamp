@@ -4,7 +4,6 @@ This is a website I made using the NASA API to return the picture of the day for
 **Link to project:** []
 
 ![Simple NASA API](/images/Simple%20NASA%20API%20.png)
-![Simple NASA API - Return](/images/Simple%20NASA%20API%20-%20Return.png)
 
 ## How It's Made:
 
